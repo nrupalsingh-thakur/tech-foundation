@@ -22,8 +22,11 @@ The OS breaks data into **small pieces**.
 Shipping a couch as many boxes, not one giant crate.
 
 Large message
+
 |
+
 v
+
 [packet][packet][packet][packet]
 
 Each packet includes:
