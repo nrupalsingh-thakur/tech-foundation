@@ -21,9 +21,6 @@ Port 22 -> SSH process
 Port 80 -> Web server
 Port 5432 -> Database
 
-csharp
-Copy code
-
 A network endpoint is:
 (IP address, port)
 
