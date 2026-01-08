@@ -3,14 +3,20 @@
 ### Flow
 
 App
+
 |
 v
+
 OS resolver
+
 |
 v
+
 DNS servers
+
 |
 v
+
 IP address
 
 Steps:
