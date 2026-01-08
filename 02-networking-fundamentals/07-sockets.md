@@ -11,11 +11,17 @@ Same category as:
 - devices
 
 Process
+
 |
+
 v
+
 [file descriptor]
+
 |
+
 v
+
 socket -> kernel -> network
 
 Key insight:
