@@ -56,8 +56,4 @@ Examples:
 send bytes
 OS manages packets
 receive bytes
-
-yaml
-Copy code
-
 TCP hides packet chaos from you.
